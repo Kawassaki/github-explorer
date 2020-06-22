@@ -2,7 +2,7 @@
 Application developed in React + Typescript that shows repos from git hub e its details and issues!
 
 # Demo
-You can check out the [demo here](https://romantic-raman-c1c7b3.netlify.app/)
+You can check out the [demo here](https://kawassaki.netlify.app/)
 
 # Setting the enviroment up
 ### Configure Node.js
